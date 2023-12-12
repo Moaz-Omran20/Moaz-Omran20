@@ -39,3 +39,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moaz_omran20/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+201006560512)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Moaz-Omran20&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=Moaz-Omran20&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Moaz-Omran20&style=for-the-badge">
+</a>
+
