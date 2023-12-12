@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="right" src="https://cdn.dribbble.com/users/795597/screenshots/6081444/media/b8edd95c375421d690c19b3da4239e01.gif" alt="Coder GIF" width="380" height="280">
 
 <h3 align="center">
   Welcome to Moaz Omran's profile!
@@ -22,6 +22,8 @@
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Hive](https://img.shields.io/badge/-hive-05122A?style=flat&logo=hive)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
