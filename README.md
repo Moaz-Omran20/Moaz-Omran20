@@ -13,8 +13,8 @@
 
 <h3>🚀 About Me</h3>
 
-- 🏢 I'm a Computer Science student in my final year
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a Computer Science fresh graduate
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Dart, Flutter or anything related to mobile development.
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
