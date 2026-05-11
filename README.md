@@ -13,7 +13,7 @@
 
 <h3>🚀 About Me</h3>
 
-- 🏢 I'm a Computer Science fresh graduate
+- 🏢 I'm a Computer Science  graduate
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Dart, Flutter or anything related to mobile development.
 
